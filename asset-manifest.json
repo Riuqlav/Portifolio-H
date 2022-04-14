@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Portifolio-H/static/css/main.55ccd7f1.css",
-    "main.js": "/Portifolio-H/static/js/main.0ca4cc3f.js",
-    "static/js/787.4052ace4.chunk.js": "/Portifolio-H/static/js/787.4052ace4.chunk.js",
-    "static/media/NodeJSLogo.png": "/Portifolio-H/static/media/NodeJSLogo.aabc0115471d1e8b2d6e.png",
-    "static/media/ReactLogo.png": "/Portifolio-H/static/media/ReactLogo.37940586dd863909ffca.png",
-    "static/media/TailwindLogo.png": "/Portifolio-H/static/media/TailwindLogo.36b2728bf0d14b7b7576.png",
-    "static/media/TypescriptLogo.png": "/Portifolio-H/static/media/TypescriptLogo.c4105801aadf2606ac30.png",
-    "static/media/BootstrapLogo.png": "/Portifolio-H/static/media/BootstrapLogo.87b2b41e1d703d5fc6c1.png",
-    "static/media/ReduxLogo.png": "/Portifolio-H/static/media/ReduxLogo.296b9306ae3e4de348c6.png",
-    "static/media/FacebookLogo.png": "/Portifolio-H/static/media/FacebookLogo.d98289247d31efeea5c0.png",
-    "static/media/FirebaseLogo.png": "/Portifolio-H/static/media/FirebaseLogo.a5f9f1fd96c36040dd43.png",
-    "static/media/JsLogo.png": "/Portifolio-H/static/media/JsLogo.db393457bf6303d846d6.png",
-    "index.html": "/Portifolio-H/index.html",
-    "main.55ccd7f1.css.map": "/Portifolio-H/static/css/main.55ccd7f1.css.map",
-    "main.0ca4cc3f.js.map": "/Portifolio-H/static/js/main.0ca4cc3f.js.map",
-    "787.4052ace4.chunk.js.map": "/Portifolio-H/static/js/787.4052ace4.chunk.js.map"
+    "main.css": "/static/css/main.55ccd7f1.css",
+    "main.js": "/static/js/main.d41523a4.js",
+    "static/js/787.4052ace4.chunk.js": "/static/js/787.4052ace4.chunk.js",
+    "static/media/NodeJSLogo.png": "/static/media/NodeJSLogo.aabc0115471d1e8b2d6e.png",
+    "static/media/ReactLogo.png": "/static/media/ReactLogo.37940586dd863909ffca.png",
+    "static/media/TailwindLogo.png": "/static/media/TailwindLogo.36b2728bf0d14b7b7576.png",
+    "static/media/TypescriptLogo.png": "/static/media/TypescriptLogo.c4105801aadf2606ac30.png",
+    "static/media/BootstrapLogo.png": "/static/media/BootstrapLogo.87b2b41e1d703d5fc6c1.png",
+    "static/media/ReduxLogo.png": "/static/media/ReduxLogo.296b9306ae3e4de348c6.png",
+    "static/media/FacebookLogo.png": "/static/media/FacebookLogo.d98289247d31efeea5c0.png",
+    "static/media/FirebaseLogo.png": "/static/media/FirebaseLogo.a5f9f1fd96c36040dd43.png",
+    "static/media/JsLogo.png": "/static/media/JsLogo.db393457bf6303d846d6.png",
+    "index.html": "/index.html",
+    "main.55ccd7f1.css.map": "/static/css/main.55ccd7f1.css.map",
+    "main.d41523a4.js.map": "/static/js/main.d41523a4.js.map",
+    "787.4052ace4.chunk.js.map": "/static/js/787.4052ace4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.55ccd7f1.css",
-    "static/js/main.0ca4cc3f.js"
+    "static/js/main.d41523a4.js"
   ]
 }
