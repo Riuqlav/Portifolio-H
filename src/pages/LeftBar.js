@@ -13,7 +13,7 @@ const LeftBar = () => {
 
   const WebList = () => (
     <div>
-      <a href="https://github.com/Riuqlav/trebuche">
+      <a href="https://riuqlav.github.io/trebuche/" target="_blank">
         <div className="ml-12 flex items-center hover:cursor-pointer hover:bg-opacity-80 hover:bg-[#2b2a2a] w-60">
           <img
             src={JSIcon}
@@ -24,7 +24,7 @@ const LeftBar = () => {
         </div>
       </a>
 
-      <a href="https://github.com/Riuqlav/bar-crawl-meetup">
+      <a href="https://riuqlav.github.io/bar-crawl-meetup/" target="_blank">
         <div className="flex whitespace-nowrap items-center hover:cursor-pointer hover:bg-opacity-80 hover:bg-[#2b2a2a] focus:bg-slate-300 ml-12 w-60">
           <img
             src={JSIcon}
@@ -34,7 +34,7 @@ const LeftBar = () => {
           <p>Bar Crawl Meetups</p>
         </div>
       </a>
-      <a href="https://github.com/Riuqlav/save-your-job">
+      <a href="https://riuqlav.github.io/save-your-job" target="_blank">
         <div className="flex whitespace-nowrap items-center hover:cursor-pointer hover:bg-opacity-80 hover:bg-[#2b2a2a] ml-12 w-60">
           <img
             src={JSIcon}

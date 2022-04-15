@@ -38,16 +38,21 @@ const Resume = () => {
             <code className="text-yellow_vs">My Work</code>
           </div>
           <div className="w-3/4">
-            <a href="https://github.com/Riuqlav/Trebuche">
+            {" "}
+            <code className="text-blue_vs">
               {" "}
-              <code className="text-blue_vs">Front-End Website</code>
-              <br />
-              <code className="italic text-sm text-lightblue_vs">
-                Trebuché E-shop{" "}
-              </code>
-            </a>
+              <a href="https://riuqlav.github.io/trebuche/" target="_blank">
+                Front-End Website{" "}
+              </a>{" "}
+            </code>
             <br />
-
+            <code className="italic text-sm text-lightblue_vs">
+              Trebuché E-shop,{" "}
+              <a href="https://github.com/Riuqlav/Trebuche" target="_blank">
+                &lt;view code&gt;{" "}
+              </a>
+            </code>
+            <br />
             <code className="text-sm">
               <br />• Revamped UI and app interface for the e-commerce site
               using Styled Components.
@@ -62,16 +67,26 @@ const Resume = () => {
         <div className="flex flex-row pt-10">
           <div className="w-1/4"></div>
           <div className="w-3/4">
-            <a href="https://github.com/Riuqlav/barcrawl">
+            {" "}
+            <a
+              href="https://riuqlav.github.io/bar-crawl-meetup/ "
+              target="_blank"
+            >
               {" "}
               <code className="text-blue_vs">Full Stack Application</code>
               <br />
-              <code className="italic text-sm text-lightblue_vs">
-                Project Bar Crawl{" "}
-              </code>
             </a>
+            <code className="italic text-sm text-lightblue_vs">
+              Project Bar Crawl,
+              <a
+                href="https://github.com/Riuqlav/bar-crawl-meetup"
+                target="_blank "
+              >
+                {" "}
+                &lt;view code&gt;{" "}
+              </a>
+            </code>
             <br />
-
             <code className="text-sm">
               <br />• Execute Create, Read, Update, and Delete (CRUD), using
               Realtime Database.
@@ -84,13 +99,21 @@ const Resume = () => {
         <div className="flex flex-row pt-10">
           <div className="w-1/4"></div>
           <div className="w-3/4">
-            <a href="https://github.com/Riuqlav/Jankenpon">
-              <code className="text-blue_vs">Save Your Job Challenge Game</code>
-              <br />
-              <code className="italic text-sm text-lightblue_vs">
-                The Odin Project
-              </code>
+            <a href="https://riuqlav.github.io/save-your-job/" target="_blank">
+              <code className="text-blue_vs">Save Your Job Challenge Game</code>{" "}
             </a>
+            <br />
+            <code className="italic text-sm text-lightblue_vs">
+              The Odin Project,{" "}
+              <a
+                href="https://github.com/Riuqlav/save-your-job"
+                target="_blank"
+              >
+                {" "}
+                &lt;view code&gt;
+              </a>
+            </code>
+
             <br />
             <code className="text-sm">
               <br />• Design boolean logical operators and event listeners for
