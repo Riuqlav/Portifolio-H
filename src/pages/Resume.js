@@ -136,6 +136,9 @@ const Resume = () => {
               Mathematics,Federal Fluminense University.
               <br />• Installation and maintenance of computers, SESI-SENAI.
               <br />• Maintenance of Local Networks, SESI-SENAI.
+              <br />
+              <br />
+              <br />
             </code>
           </div>
         </div>

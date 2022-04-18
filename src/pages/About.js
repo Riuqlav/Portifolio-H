@@ -36,6 +36,8 @@ const About = () => {
             of projects,
             <br />
             My desire is to create tools to make the lives of people easier.{" "}
+            <br /> <br />
+            Technologies I use in my projects:{" "}
           </code>
           <br />
           <br />
@@ -123,6 +125,9 @@ const About = () => {
           </div>
         </div>
       </div>
+      <br />
+      <br />
+      <br />
     </div>
   );
 };

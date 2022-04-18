@@ -14,7 +14,7 @@ const MobileMenu = () => {
   const projects = [
     {
       name: "Trebuché E-shop",
-      href: "https://github.com/Riuqlav/trebuche",
+      href: "https://riuqlav.github.io/trebuche/",
       icon: (
         <img
           src={JSIcon}
@@ -26,7 +26,7 @@ const MobileMenu = () => {
     },
     {
       name: "Bar Crawl Meetups",
-      href: "https://github.com/Riuqlav/bar-crawl-meetup",
+      href: "https://riuqlav.github.io/bar-crawl-meetup/",
       icon: (
         <img
           src={JSIcon}
@@ -38,7 +38,7 @@ const MobileMenu = () => {
     },
     {
       name: "Save your Job Game",
-      href: "https://github.com/Riuqlav/save-your-job",
+      href: "https://riuqlav.github.io/save-your-job/",
       icon: (
         <img
           src={JSIcon}
