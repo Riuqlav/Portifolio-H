@@ -5,6 +5,7 @@ const GitLogo = require("../assets/logos/GitLogo.png");
 const LinkedinLogo = require("../assets/logos/LinkedinLogo.png");
 const MailLogo = require("../assets/logos/MailLogo.png");
 const JSIcon = require("../assets/icons/JSIcon.png");
+const TSIcon = require("../assets/icons/TSIcon.png");
 const FacebookLogo = require("../assets/logos/FacebookLogo.png");
 
 const LeftBar = () => {
@@ -21,6 +22,17 @@ const LeftBar = () => {
             className="w-7 mr-1  ml-5 text-yellow_vs"
           />
           <p>Trebuché E-shop</p>
+        </div>
+      </a>
+
+      <a href="https://riuqlav.github.io/Chattons/" target="_blank">
+        <div className="ml-12 flex items-center hover:cursor-pointer hover:bg-opacity-80 hover:bg-[#2b2a2a] w-60">
+          <img
+            src={TSIcon}
+            alt="TS Icon"
+            className="w-7 mr-1  ml-5 text-yellow_vs"
+          />
+          <p>Chattons chat app</p>
         </div>
       </a>
 

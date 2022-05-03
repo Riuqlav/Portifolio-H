@@ -70,6 +70,31 @@ const Resume = () => {
           <div className="w-1/4"></div>
           <div className="w-3/4">
             {" "}
+            <a href="https://riuqlav.github.io/Chattons/ " target="_blank">
+              {" "}
+              <code className="text-blue_vs">Full Stack Chat App</code>
+              <br />
+            </a>
+            <code className="italic text-sm text-lightblue_vs">
+              Chattons chat app,{" "}
+              <a href="https://github.com/Riuqlav/Chattons/" target="_blank ">
+                {" "}
+                &lt;view code&gt;{" "}
+              </a>
+            </code>
+            <br />
+            <code className="text-sm">
+              <br />• Powered with React and Typescript for building components.
+              <br />• Created a minimalist(CRUD) chat app using Simple APIs and
+              UI Kits.
+              <br />• Hosted using Github Pages and chat data on Chat Engine.
+            </code>
+          </div>
+        </div>
+        <div className="flex flex-row pt-10">
+          <div className="w-1/4"></div>
+          <div className="w-3/4">
+            {" "}
             <a
               href="https://riuqlav.github.io/bar-crawl-meetup/ "
               target="_blank"
