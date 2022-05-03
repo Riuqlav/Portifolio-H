@@ -26,10 +26,10 @@ const Resume = () => {
           <div className="w-3/4">
             <code className="text-sm">
               Multilingual(EN, FR, PT) front-end developer comfortable working
-              with JavaScript(React, React Router, Redux), <br /> CSS(Bootstrap,
-              Tailwind, Modules, Styled Components), and HTML. <br />
-              Delivering good-looking reusable components to provide and
-              excellent UI in websites for clients.
+              with JavaScript(React, React Router, hooks), <br /> CSS(Bootstrap,
+              Tailwind, CSS Modules, Styled Components), and HTML <br />
+              To deliver good-looking reusable components and provide an
+              excellent user experience for clients.
             </code>
           </div>
         </div>
