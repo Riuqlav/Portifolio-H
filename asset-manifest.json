@@ -1,8 +1,12 @@
 {
   "files": {
     "main.css": "/Portifolio-H/static/css/main.55ccd7f1.css",
-    "main.js": "/Portifolio-H/static/js/main.4b22502f.js",
+    "main.js": "/Portifolio-H/static/js/main.5230e2e1.js",
     "static/js/787.4052ace4.chunk.js": "/Portifolio-H/static/js/787.4052ace4.chunk.js",
+    "static/media/Img3.png": "/Portifolio-H/static/media/Img3.f7afab3ec95bb54e11c4.png",
+    "static/media/Img1.png": "/Portifolio-H/static/media/Img1.be9b52e6e758fb8a04e1.png",
+    "static/media/Img4.png": "/Portifolio-H/static/media/Img4.c651bdbb07e46c816c6b.png",
+    "static/media/Img2.png": "/Portifolio-H/static/media/Img2.763c915770c52a85328c.png",
     "static/media/NodeJSLogo.png": "/Portifolio-H/static/media/NodeJSLogo.aabc0115471d1e8b2d6e.png",
     "static/media/ReactLogo.png": "/Portifolio-H/static/media/ReactLogo.37940586dd863909ffca.png",
     "static/media/TailwindLogo.png": "/Portifolio-H/static/media/TailwindLogo.36b2728bf0d14b7b7576.png",
@@ -14,11 +18,11 @@
     "static/media/JsLogo.png": "/Portifolio-H/static/media/JsLogo.db393457bf6303d846d6.png",
     "index.html": "/Portifolio-H/index.html",
     "main.55ccd7f1.css.map": "/Portifolio-H/static/css/main.55ccd7f1.css.map",
-    "main.4b22502f.js.map": "/Portifolio-H/static/js/main.4b22502f.js.map",
+    "main.5230e2e1.js.map": "/Portifolio-H/static/js/main.5230e2e1.js.map",
     "787.4052ace4.chunk.js.map": "/Portifolio-H/static/js/787.4052ace4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.55ccd7f1.css",
-    "static/js/main.4b22502f.js"
+    "static/js/main.5230e2e1.js"
   ]
 }
