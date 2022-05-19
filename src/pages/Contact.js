@@ -13,7 +13,7 @@ const Contact = () => {
       </div>
       <div className="text-[#a2aabc] text-lg mt-5 mx-12 lg:mx-60 flex flex-col items-center text-justify">
         <code>
-          Currently looking for a new opportunity, you can contact me by
+          I am Currently looking for a new opportunity, you can contact me by
           clicking on the button below. <br />
           Whether you have a question or just want to say hi, feel free to
           contact me and I’ll try my best to get back to you!

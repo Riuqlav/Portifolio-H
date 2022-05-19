@@ -27,9 +27,10 @@ const About = () => {
         </div>
         <div className="text-[#a2aabc] text-lg mt-5">
           <code>
-            Multilingual(EN, FR, PT) front-end developer working to deliver
-            good-looking reusable components <br /> And provide an excellent
-            user experience for clients. <br />
+            I am a multilingual front-end developer
+            comfortable&nbsp;working&nbsp;with&nbsp;JavaScript(ReactJS), <br />
+            CSS(Bootstrap, Tailwind, CSS Modules, Styled Components), and HTML.{" "}
+            <br />
             Technologies I use in my projects:{" "}
           </code>
           <br />
