@@ -14,6 +14,16 @@ const LeftBar = () => {
 
   const WebList = () => (
     <div>
+      <a href="https://meetiqs.de/" target="_blank">
+        <div className="ml-12 flex items-center hover:cursor-pointer hover:bg-opacity-80 hover:bg-[#2b2a2a] w-60">
+          <img
+            src={JSIcon}
+            alt="JS Icon"
+            className="w-7 mr-1  ml-5 text-yellow_vs"
+          />
+          <p>Meetiqs Front Page</p>
+        </div>
+      </a>
       <a href="https://riuqlav.github.io/trebuche/" target="_blank">
         <div className="ml-12 flex items-center hover:cursor-pointer hover:bg-opacity-80 hover:bg-[#2b2a2a] w-60">
           <img

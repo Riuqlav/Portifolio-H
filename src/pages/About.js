@@ -27,16 +27,9 @@ const About = () => {
         </div>
         <div className="text-[#a2aabc] text-lg mt-5">
           <code>
-            I've pivoted my career from import and supply for retail companies,
-            to web development,
-            <br /> When I had the chance to assist the Product Manager at a
-            startup a year ago.
-            <br />
-            Since then, I've been in different boot camps and working on a range
-            of projects,
-            <br />
-            My desire is to create tools to make the lives of people easier.{" "}
-            <br /> <br />
+            Multilingual(EN, FR, PT) front-end developer working to deliver
+            good-looking reusable components <br /> And provide an excellent
+            user experience for clients. <br />
             Technologies I use in my projects:{" "}
           </code>
           <br />
@@ -125,8 +118,7 @@ const About = () => {
           </div>
         </div>
       </div>
-      <br />
-      <br />
+
       <br />
     </div>
   );

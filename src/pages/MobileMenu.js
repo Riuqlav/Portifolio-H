@@ -13,8 +13,9 @@ const TSIcon = require("../assets/icons/TSIcon.png");
 const MobileMenu = () => {
   const projects = [
     {
-      name: "Trebuché E-shop",
-      href: "https://riuqlav.github.io/trebuche/",
+      name: "Meetiqs Front Page",
+      href: "https://meetiqs.de/",
+      target: "_blank",
       icon: (
         <img
           src={JSIcon}
@@ -22,11 +23,41 @@ const MobileMenu = () => {
           className="w-7 mr-1  ml-5 text-yellow_vs"
         />
       ),
-      current: true,
+      current: false,
+    },
+    {
+      name: "Trebuché E-shop",
+      href: "https://riuqlav.github.io/trebuche/",
+      target: "_blank",
+
+      icon: (
+        <img
+          src={JSIcon}
+          alt="JS Icon"
+          className="w-7 mr-1  ml-5 text-yellow_vs"
+        />
+      ),
+      current: false,
+    },
+    {
+      name: "Chattons chat app",
+      href: "https://riuqlav.github.io/Chattons/",
+      target: "_blank",
+
+      icon: (
+        <img
+          src={TSIcon}
+          alt="TS Icon"
+          className="w-7 mr-1  ml-5 text-yellow_vs"
+        />
+      ),
+      current: false,
     },
     {
       name: "Bar Crawl Meetups",
       href: "https://riuqlav.github.io/bar-crawl-meetup/",
+      target: "_blank",
+
       icon: (
         <img
           src={JSIcon}
@@ -39,6 +70,8 @@ const MobileMenu = () => {
     {
       name: "Save your Job Game",
       href: "https://riuqlav.github.io/save-your-job/",
+      target: "_blank",
+
       icon: (
         <img
           src={JSIcon}

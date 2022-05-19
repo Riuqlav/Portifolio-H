@@ -1,6 +1,11 @@
 import React from "react";
 import { ClipboardListIcon } from "@heroicons/react/solid";
 
+const Img1 = require("../assets/logos/Img1.png");
+const Img2 = require("../assets/logos/Img2.png");
+const Img3 = require("../assets/logos/Img3.png");
+const Img4 = require("../assets/logos/Img4.png");
+
 const Resume = () => {
   return (
     <div
@@ -19,34 +24,48 @@ const Resume = () => {
         </div>
       </div>
       <div className="text-[#a2aabc] text-lg mt-5">
-        <div className="flex flex-row pt-10 flex-wrap">
-          <div className="w-1/4">
-            <code className="text-yellow_vs">Skills</code>
-          </div>
+        <div className="flex flex-row pt-10">
+          <div className="w-1/4 ">
+            <code className="text-yellow_vs">2020-2022</code>{" "}
+          </div>{" "}
+          <br />
           <div className="w-3/4">
+            {" "}
+            <a href="https://meetiqs.de/" target="_blank">
+              <code className="text-blue_vs">Junior Front End Developer</code>{" "}
+            </a>
+            <br />
+            <code className="italic text-sm text-lightblue_vs">
+              <a href="https://meetiqs.de/" target="_blank">
+                {" "}
+                Meetiqs
+              </a>
+            </code>
+            <br />
             <code className="text-sm">
-              Multilingual(EN, FR, PT) front-end developer comfortable working
-              with JavaScript(React, React Router, hooks), <br /> CSS(Bootstrap,
-              Tailwind, CSS Modules, Styled Components), and HTML <br />
-              To deliver good-looking reusable components and provide an
-              excellent user experience for clients.
+              <br />• Maintenance and update of features on the front page.
+              <br />• Assist the copyright and design team in the development of
+              the UX.
+              <br />• Experienced AGILE/ Scrum methodology with Jira.
             </code>
           </div>
         </div>
-        <br />
-        <br />
+        <div>
+          <a href="https://meetiqs.de/" target="_blank">
+            <br /> <img src={Img1} alt="Meetiqs screen DEMO" />{" "}
+          </a>{" "}
+          <br />
+          <br />
+        </div>
         <div className="flex flex-row pt-10">
           <div className="w-1/4">
-            <code className="text-yellow_vs">My Work</code>
+            {" "}
+            <code className="text-yellow_vs">2022</code>{" "}
           </div>
           <div className="w-3/4">
-            {" "}
-            <code className="text-blue_vs">
-              {" "}
-              <a href="https://riuqlav.github.io/trebuche/" target="_blank">
-                Front-End Website{" "}
-              </a>{" "}
-            </code>
+            <a href="https://riuqlav.github.io/trebuche/" target="_blank">
+              <code className="text-blue_vs">Front-End Website</code>
+            </a>{" "}
             <br />
             <code className="italic text-sm text-lightblue_vs">
               Trebuché E-shop,{" "}
@@ -64,15 +83,22 @@ const Resume = () => {
               register, products, filters, etc.
             </code>
           </div>
-        </div>
+        </div>{" "}
+        <a href="https://riuqlav.github.io/trebuche/" target="_blank">
+          <br /> <img src={Img2} alt="Trebuché screen DEMO" />
+        </a>{" "}
+        <br />
         <br />
         <div className="flex flex-row pt-10">
-          <div className="w-1/4"></div>
+          <div className="w-1/4">
+            {" "}
+            <code className="text-yellow_vs">2022</code>{" "}
+          </div>
           <div className="w-3/4">
             {" "}
             <a href="https://riuqlav.github.io/Chattons/ " target="_blank">
               {" "}
-              <code className="text-blue_vs">Full Stack Chat App</code>
+              <code className="text-blue_vs">FullStack Chat App</code>
               <br />
             </a>
             <code className="italic text-sm text-lightblue_vs">
@@ -91,8 +117,16 @@ const Resume = () => {
             </code>
           </div>
         </div>
+        <a href="https://riuqlav.github.io/Chattons/" target="_blank ">
+          <br /> <img src={Img3} alt="Chattons chat app" />
+        </a>{" "}
+        <br />
+        <br />
         <div className="flex flex-row pt-10">
-          <div className="w-1/4"></div>
+          <div className="w-1/4">
+            {" "}
+            <code className="text-yellow_vs">2021</code>{" "}
+          </div>
           <div className="w-3/4">
             {" "}
             <a
@@ -100,11 +134,11 @@ const Resume = () => {
               target="_blank"
             >
               {" "}
-              <code className="text-blue_vs">Full Stack Application</code>
+              <code className="text-blue_vs">FullStack Application</code>
               <br />
             </a>
             <code className="italic text-sm text-lightblue_vs">
-              Project Bar Crawl,
+              Project Bar Crawl Meetups,
               <a
                 href="https://github.com/Riuqlav/bar-crawl-meetup"
                 target="_blank "
@@ -122,34 +156,11 @@ const Resume = () => {
             </code>
           </div>
         </div>
+        <a href="https://riuqlav.github.io/bar-crawl-meetup/" target="_blank ">
+          <br /> <img src={Img4} alt="Project Bar Crawl Meetups" />
+        </a>{" "}
         <br />
-        <div className="flex flex-row pt-10">
-          <div className="w-1/4"></div>
-          <div className="w-3/4">
-            <a href="https://riuqlav.github.io/save-your-job/" target="_blank">
-              <code className="text-blue_vs">Save Your Job Challenge Game</code>{" "}
-            </a>
-            <br />
-            <code className="italic text-sm text-lightblue_vs">
-              The Odin Project,{" "}
-              <a
-                href="https://github.com/Riuqlav/save-your-job"
-                target="_blank"
-              >
-                {" "}
-                &lt;view code&gt;
-              </a>
-            </code>
-
-            <br />
-            <code className="text-sm">
-              <br />• Design boolean logical operators and event listeners for
-              the game in JS.
-              <br />• Followed rules dictated by the challenge.
-              <br />• Structured the website with HTML and CSS.
-            </code>
-          </div>
-        </div>{" "}
+        <br />
         <br />
         <br />{" "}
         <div className="flex flex-row pt-10 flex-wrap">
@@ -163,8 +174,6 @@ const Resume = () => {
               Mathematics,Federal Fluminense University.
               <br />• Installation and maintenance of computers, SESI-SENAI.
               <br />• Maintenance of Local Networks, SESI-SENAI.
-              <br />
-              <br />
               <br />
             </code>
           </div>
