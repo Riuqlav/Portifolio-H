@@ -13,17 +13,20 @@ const Resume = () => {
       id="Resume"
       className="lg:w-1/2 mt-64 mb-4 text-justify mx-12 lg:mr-60 lg:ml-auto"
     >
-      <div>
-        <div className="table">
-          <ClipboardListIcon className="h-5 w-5 mr-4 text-yellow_vs" />{" "}
-          <code className="table-cell text-[#e6f1ff] text-3xl mt-5 whitespace-nowrap">
-            <a href={cv} target="_blank ">
-              Resume.pdf
-            </a>
-          </code>
-          <div className="table-cell border-b border-b-[#e6f1ff] border-opacity-25 w-full"></div>
+      <a href={cv} target="_blank ">
+        <div>
+          <div className="table">
+            <ClipboardListIcon className="h-5 w-5 mr-4 text-yellow_vs" />{" "}
+            <code className="table-cell text-[#e6f1ff] text-3xl mt-5 whitespace-nowrap">
+              Resume
+            </code>
+          </div>
+          <div className="w-3/4">
+            <code className="text-blue_vs">Download .pdf Version</code>{" "}
+            <div className="table-cell border-b border-b-[#e6f1ff] border-opacity-25 w-full"></div>
+          </div>
         </div>
-      </div>
+      </a>
       <div className="text-[#a2aabc] text-lg mt-5">
         <div className="flex flex-row pt-10">
           <div className="w-1/4 ">
